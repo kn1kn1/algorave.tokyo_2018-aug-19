@@ -24,7 +24,7 @@ https://twitter.com/reprimande/status/1031197194416578561
 
 ## Sonic Pi and Petal source code
 
-- Buffer5.rb
+- [Buffer5.rb](https://github.com/kn1kn1/algorave.tokyo_2018-aug-19/blob/master/Buffer5.rb)
   - Some functions for the performance (loaded in advance)
-- Buffer6.rb
+- [Buffer6.rb](https://github.com/kn1kn1/algorave.tokyo_2018-aug-19/blob/master/Buffer6.rb)
   - the performance
